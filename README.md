@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm a Cloud & Full-Stack Developer 
+# 🚀 Hi, I'm a Full-Stack Developer 
 
 I bridge the gap between business architecture and scalable cloud-native applications, focusing on the Node.js ecosystem and enterprise cloud solutions.
 
